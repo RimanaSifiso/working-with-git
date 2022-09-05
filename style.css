@@ -3,3 +3,11 @@ body {
   color: white;
   background-color: blueviolet;
 }
+
+a,
+a:link,
+a:visited,
+a:focus,
+a:active {
+  color: yellow;
+}
